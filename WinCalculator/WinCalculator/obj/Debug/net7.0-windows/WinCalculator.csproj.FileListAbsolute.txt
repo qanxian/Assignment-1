@@ -1,0 +1,16 @@
+D:\Tools\C#\WinCalculator\WinCalculator\bin\Debug\net7.0-windows\WinCalculator.exe
+D:\Tools\C#\WinCalculator\WinCalculator\bin\Debug\net7.0-windows\WinCalculator.deps.json
+D:\Tools\C#\WinCalculator\WinCalculator\bin\Debug\net7.0-windows\WinCalculator.runtimeconfig.json
+D:\Tools\C#\WinCalculator\WinCalculator\bin\Debug\net7.0-windows\WinCalculator.dll
+D:\Tools\C#\WinCalculator\WinCalculator\bin\Debug\net7.0-windows\WinCalculator.pdb
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.Form1.resources
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.csproj.GenerateResource.cache
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.AssemblyInfoInputs.cache
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.AssemblyInfo.cs
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.csproj.CoreCompileInputs.cache
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.dll
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\refint\WinCalculator.dll
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.pdb
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\WinCalculator.genruntimeconfig.cache
+D:\Tools\C#\WinCalculator\WinCalculator\obj\Debug\net7.0-windows\ref\WinCalculator.dll
